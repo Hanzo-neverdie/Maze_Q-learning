@@ -98,7 +98,7 @@ class Maze:
         return state[0], state[1]
         
 class QLearningAgent:
-    def __init__(self, maze, learning_rate=0.1, discount_factor=0.9, exploration_rate=1.0, exploration_decay=0.99):
+    def __init__(self, maze, learning_rate=0.3, discount_factor=0.9, exploration_rate=1.0, exploration_decay=0.99):
         self.maze = maze
         self.learning_rate = learning_rate
         self.discount_factor = discount_factor
