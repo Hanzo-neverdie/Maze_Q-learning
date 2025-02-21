@@ -43,4 +43,4 @@
   Display the video introduction of the MLFB-Assignment1 - [https://youtu.be/xgug7FXCUhg?si=LRx8oqZIrKEqz1RO ](https://youtu.be/5jyAIsQ6V70)
 
 ## Reference
-  
+  <a https://developer.aliyun.com/article/1581658> Snake game based on Q-learning reinforcement learning </a>
