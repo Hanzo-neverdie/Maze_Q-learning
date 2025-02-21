@@ -43,4 +43,7 @@
   Display the video introduction of the MLFB-Assignment1 - [https://youtu.be/xgug7FXCUhg?si=LRx8oqZIrKEqz1RO ](https://youtu.be/5jyAIsQ6V70)
 
 ## Reference
-  <a https://developer.aliyun.com/article/1581658> Snake game based on Q-learning reinforcement learning </a>
+
+  Snake game based on Q-learning reinforcement learning: https://developer.aliyun.com/article/1581658 
+
+  Tetris-deep-Q-learning-pytorch: https://gitcode.com/gh_mirrors/te/Tetris-deep-Q-learning-pytorch/?utm_source=artical_gitcode&index=top&type=href&
